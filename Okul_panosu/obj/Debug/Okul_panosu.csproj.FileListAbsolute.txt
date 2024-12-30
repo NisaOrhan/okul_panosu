@@ -1,0 +1,13 @@
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.csproj.AssemblyReference.cache
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.Duyurular.resources
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.kullanici.resources
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.Properties.Resources.resources
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.Yönetici.resources
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.csproj.GenerateResource.cache
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\bin\Debug\Okul_panosu.exe.config
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\bin\Debug\Okul_panosu.exe
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\bin\Debug\Okul_panosu.pdb
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.exe
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.pdb
+C:\Users\Nisa\source\repos\Okul_panosu\Okul_panosu\obj\Debug\Okul_panosu.Katlar.resources
